@@ -19,7 +19,7 @@ Note: All the code is written in pure C programming language, however header fil
       inlcuded in this program(windows.h is also included for rendering reasons), which is 
       not part of ANSI C standard.
 
-This program was made completely and entirely by Marko Kosir, it is freeware,
+This program was made entirely by Marko Kosir, it is freeware,
 feel free to use this code or change it in any way you like.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
