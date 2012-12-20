@@ -20,8 +20,6 @@ Tested - Windows XP
 Compiled - Microsoft Visual Studio 2005  
 MVS 2005 compiler gives you warnings about some of the functions and suggest that you should use ISO C++ functions and replace deprecated ones, if you want feel free to do it.
 
-Released: July 8th, 2005
-
 Upgrade log:  
 -ported to MVS 2010  (18.9.2010)
 
