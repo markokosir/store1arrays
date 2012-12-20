@@ -1,7 +1,7 @@
 Store 1 - Arrays
 =================
 
-This is a compilation of a store programs I wrote for academic purposes in 3 different ways or better said data structures from scratch. Store 1 is implemented using arrays. When the program starts it allocates memory on heap and gives 100 possibly 
+This is a compilation of a store programs I wrote for academic purposes using three different data structures from scratch. Store 1 is implemented using arrays. When the program starts it allocates memory on heap and gives 100 possibly 
 entries of products.
 
 Files included:
