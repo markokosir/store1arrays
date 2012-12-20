@@ -8,12 +8,12 @@ When the program starts it allocates memory on heap and gives 100 possibly
 entries of products.
 
 Files included:
-                - products.txt				sample database
-                - codes.txt					codes for products
-                - main.h & main.c			heart of a program
-                - product.h & product.c		general functions for working with products
-                - file.h & file.c			functions for working with files
-                - utils.h & utils.c			utilities functions
+		- products.txt				sample database
+		- codes.txt					codes for products
+		- main.h & main.c			heart of a program
+		- product.h & product.c		general functions for working with products
+		- file.h & file.c			functions for working with files
+		- utils.h & utils.c			utilities functions
 
 Note: All the code is written in pure C programming language, however header file conio.h is
       inlcuded in this program(windows.h is also included for rendering reasons), which is 
