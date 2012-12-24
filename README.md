@@ -23,4 +23,6 @@ MVS 2005 compiler gives you warnings about some of the functions and suggest tha
 Upgrade log:  
 -ported to MVS 2010  (18.9.2010)
 
-![screenshot](https://github.com/markokosir/store1arrays/blob/master/readmeScreenshot.JPG)
+<!--![screenshot](https://github.com/markokosir/store1arrays/blob/master/readmeScreenshot.JPG "screenshot")-->
+
+![Store 1 - Arrays](http://www.planetsourcecode.com/Upload_PSC/ScreenShots/PIC20075211731133815.JPG "Store 1 - Arrays")
