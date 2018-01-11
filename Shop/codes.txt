@@ -1,5 +1,5 @@
 /---------------------------------------\
-|Products which are already in a program|
+|Products already in a program          |
 |                                       |
 |PRODUCT  |  CODE                       |
 |*****************                      |
