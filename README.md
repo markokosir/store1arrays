@@ -13,12 +13,7 @@ Files included:
 
 Note: All the code is written in pure C programming language, however header file conio.h is inlcuded in this program(windows.h is also included for rendering reasons), which is not part of ANSI C standard.
 
-Tested - Windows XP  
-Compiled - Microsoft Visual Studio 2005  
-MVS 2005 compiler gives you warnings about some of the functions and suggest that you should use ISO C++ functions and replace deprecated ones, if you want feel free to do it.
-
-Upgrade log:  
--ported to MVS 2010  (18.9.2010)
+Tested/Compiled - Windows XP/Microsoft Visual Studio 2005
 
 <!--![screenshot](https://github.com/markokosir/store1arrays/blob/master/readmeScreenshot.JPG "screenshot")-->
 
